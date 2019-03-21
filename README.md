@@ -45,4 +45,4 @@ serialize(new MyClass); // will throw an exception
 The same applies to `DontDeserialise`, but this
 time with `unserialize()`.
 
-`Dont\JustDont` includes other seven traits and that one is the recommended one to use.
+`Dont\JustDont` includes other seven traits and is the recommended one to use.
